@@ -4,6 +4,7 @@ import pandas as pd
 import streamlit_extras.streaming_write as stsw
 import streamlit_extras.colored_header as sech
 import streamlit_extras.switch_page_button as stex
+import streamlit_authenticator as stauth
 from supabase import create_client
 import cloudflare_CRUD as cf
 import time
