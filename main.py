@@ -339,7 +339,7 @@ def get_answer(text):
 
 import re
 
-@app.message(re.compile("(hi|hello|hey)"))
+@app.message(re.compile("(hi|hello|hey|반가워)"))
 def say_hello_regex(say, context):
     # regular expression matches are inside of context.matches
     greeting = context['matches'][0]
