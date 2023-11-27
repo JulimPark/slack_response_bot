@@ -1,0 +1,13 @@
+pandas==1.5.3
+streamlit==1.28.2
+supabase==1.0.3
+streamlit_authenticator==0.1.5
+streamlit-extras
+Pillow
+streamlit-drawable-canvas
+boto3==1.28.56
+PyMuPDF==1.21.1
+streamlit-lottie==0.0.5
+bokeh==2.4.3
+slack-sdk==3.26.0
+slack-bolt==1.18.1
