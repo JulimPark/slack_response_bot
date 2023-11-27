@@ -17,7 +17,6 @@ import random
 import streamlit_extras.mandatory_date_range as stcal
 import datetime
 import PIL.Image    
-import make_test
 from streamlit_drawable_canvas import st_canvas
 import json
 import streamlit_lottie
