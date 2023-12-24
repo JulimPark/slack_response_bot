@@ -103,7 +103,7 @@ else:
         SLACK_APP_TOKEN = st.secrets['slack_app_token']
         SLACK_SIGNING_SECRET = st.secrets['slack_signing_secret']
         # 채널 이름을 설정합니다.
-        CHANNEL_NAME = "C06791EG3B4"
+        CHANNEL_NAME = "#scoring"
         # CHANNEL_NAME = "#math-project"
         
         @st.cache_resource
